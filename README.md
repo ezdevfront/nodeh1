@@ -1,6 +1,5 @@
 # nodeh1
-nodeh1 is a runnable node.js httpAPI for the first assignment in "Node master class" at "pirple.com". A very nice in-depth course
-about the node.js runtime and libraries.
+nodeh1 is a runnable node.js httpAPI for the first assignment in "Node master class" at "pirple.com".
 
 Homework1 is a simple http RESTAPI which listen on port 3000 and replies a JSON formated object on the path "/hello"
 There is also a path /bananas added just for fun. Consists of 2 files:
